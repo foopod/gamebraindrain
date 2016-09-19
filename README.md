@@ -29,3 +29,15 @@ Choose from an assortment of local and imported ingredients to build up your men
 | Cheapie     | Cheap Bun   | Nearly Expired Dogs    | Lol. No.                         | BBQ Sauce            |
 | Not a Taco  | Taco Shell  | Meat Sludge (homemade) | Supermarket Slaw                 | Sour Cream           |
 | Dainty Dog  | Dinner Roll | Cocktail Sausage       | Parsley lightly sprinkled on top | Royal Aioli          |
+
+#Choose the price point
+
+You know how much your ingredients, utilities, staff cost. Now choose the price point for your menu items.
+
+#Customer Feedback
+
+Now and then you will get helpful feedback on several aspects of your business.
+* The food
+* The prices
+* The ambiance
+* Your appearance
