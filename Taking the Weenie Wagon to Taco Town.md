@@ -39,7 +39,7 @@ You know how much your ingredients, utilities, staff cost. Now choose the price 
 Now and then you will get helpful feedback on several aspects of your business.
 * The food
 * The prices
-* The ambiance
+* The ambience
 * Your appearance
 
 #Upgrades
