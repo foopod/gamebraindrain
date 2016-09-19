@@ -41,3 +41,14 @@ Now and then you will get helpful feedback on several aspects of your business.
 * The prices
 * The ambiance
 * Your appearance
+
+#Upgrades
+
+Now that you are making some cash, all be it not a lot, how do you want to take your business to the next level?
+* Add an awning so people don't get wet standing in line.
+* Buy some fold-out tables and chairs so people have somewhere to eat.
+* Get a liquor license and sell beer along with your dogs at events.
+* Upgrade your kitchen.
+* Hire more staff.
+* Buy a bigger van.
+* License your menu and make a franchise.
