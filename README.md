@@ -4,7 +4,7 @@ This is a repository for me to hold onto the ideas I have to make games.
 
 Feel free to help yourself to my amazing ideas :D
 
-#Games for euphimisms for sex
+#Games for euphemisms for sex
 
 * Burping the worm in the mole hole
 * Parking the car (park the car in the garage, have to do it slowly, moaning intensifies)
