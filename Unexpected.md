@@ -48,7 +48,7 @@ Req:
     * Scanner
     * Lights
     
-
+Concept Board
 ![](http://orig15.deviantart.net/6101/f/2007/195/d/9/robot_concept_by_hideyoshi.jpg)
 ![](https://pbs.twimg.com/media/BtW-pC5CAAEB-Yh.jpg)
 ![](http://www.igorstshirts.com/blog/conceptrobots/okubo_robot_concepts.jpg)
@@ -61,9 +61,19 @@ Req:
 ![](http://orig05.deviantart.net/4d8a/f/2011/041/3/0/daily_robot_v2_6_by_lordvenom05-d398u28.jpg)
 ![](http://pre11.deviantart.net/ff72/th/pre/i/2016/035/d/d/robots_doodlesheet__1_by_sly_mk3-d9qj7r9.jpg)
 ![](http://orig15.deviantart.net/a9dd/f/2008/142/a/c/oingo_boingo_fan_with_railgun_by_raz42.jpg)
+
+Examples
 ![](http://shortyawards.com.s3.amazonaws.com/entries/Ge_ZF_NEW-CharacterUpdate_CustomShells-ZachBraff.png)
 ![](https://cdn0.vox-cdn.com/thumbor/7iQpM8wY6XWWUtYKy_OVP4wOic0=/0x0:1920x1080/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47118206/destiny-ghost.0.0.jpg)
 ![](http://guides.gamepressure.com/soma/gfx/word/355217724.jpg)
-![](http://questionablecontent.net/view.php?comic=2)
 ![](http://67.media.tumblr.com/ce4066f16cf3bfdc92e9953c7744a27d/tumblr_nwt9tkCqvZ1r6r0hto1_500.jpg)
-
+![](http://wallpapercave.com/wp/ujLxnRp.png)
+![](https://pbs.twimg.com/profile_images/679154009949650944/hK_N09QV.jpg)
+![](http://static.srcdn.com/wp-content/uploads/Bumblebee-in-Transformers.jpg)
+![](http://vignette1.wikia.nocookie.net/disney/images/8/89/Baymax_Official_2014.JPG/revision/latest?cb=20140714230744)
+![](https://cdn0.vox-cdn.com/thumbor/u15_zhrz91Xy3TOTM1ShR9IA8CQ=/0x0:1100x619/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/46509360/ratchet_clank_ps4.0.0.jpg)
+![](http://www.fullhdwpp.com/wp-content/uploads/Wheatley_FullHDWpp.com_.jpg)
+![](http://www.smashbros.com/images/character/secret06/main.png)
+![](http://www.pimpknowledge.com/wp-content/uploads/2014/02/Bender-Fry.jpg)
+![](http://vignette1.wikia.nocookie.net/jimmyneutron/images/a/a0/Vlcsnap-2012-12-02-15h13m21s153.png/revision/latest?cb=20121202211852)
+![](https://s-media-cache-ak0.pinimg.com/564x/e7/79/e9/e779e92fe299aac175955c35fe6112af.jpg)
