@@ -33,3 +33,8 @@ It glows blue and in an instant there is a flash of blue light and then everythi
 Everything except a blinking light on your AI companion. You walk over and try to resurrect him by jumping him with your phone battery.
 
 He springs back into life and then freaks out. "This is not what we thought it was, we thought it was old. It isn't, its very very new."
+
+Image board
+
+![](http://orig15.deviantart.net/6101/f/2007/195/d/9/robot_concept_by_hideyoshi.jpg)
+![]
