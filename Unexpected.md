@@ -34,7 +34,36 @@ Everything except a blinking light on your AI companion. You walk over and try t
 
 He springs back into life and then freaks out. "This is not what we thought it was, we thought it was old. It isn't, its very very new."
 
-Image board
+##Image board for AI
+
+Req:
+
+* Speaker to communicate
+* Features to personify
+    * Voice Feedback levels 
+    * Voice is not perfect (occasional stutters..)
+    * A face or some kind of face
+    * Breathing (heart, lungs or organic component)
+* Features to help player
+    * Scanner
+    * Lights
+    
 
 ![](http://orig15.deviantart.net/6101/f/2007/195/d/9/robot_concept_by_hideyoshi.jpg)
-![]
+![](https://pbs.twimg.com/media/BtW-pC5CAAEB-Yh.jpg)
+![](http://www.igorstshirts.com/blog/conceptrobots/okubo_robot_concepts.jpg)
+![](https://s-media-cache-ak0.pinimg.com/originals/d8/c1/81/d8c1815595c08c75b50e9d5691448f9c.jpg)
+![](http://static1.squarespace.com/static/5238f1eee4b0272ea0785c98/523e84b9e4b07afea7f3f033/523e84fbe4b0a2758275611e/1431406583710/ConstructorBotSketches3.jpg?format=1500w)
+![](https://s-media-cache-ak0.pinimg.com/originals/8d/62/d2/8d62d2ca7aba4c3115f00eec98237036.jpg)
+![](https://pbs.twimg.com/media/CfhrX0FVAAMKE6R.jpg)
+![](http://orig03.deviantart.net/1bd3/f/2013/028/b/2/npc_concepts__1_by_talros-d5t1ujj.jpg)
+![](http://img15.deviantart.net/93a7/i/2011/023/8/1/crab_bot_process_by_gotcharabbit-d37utdh.jpg)
+![](http://orig05.deviantart.net/4d8a/f/2011/041/3/0/daily_robot_v2_6_by_lordvenom05-d398u28.jpg)
+![](http://pre11.deviantart.net/ff72/th/pre/i/2016/035/d/d/robots_doodlesheet__1_by_sly_mk3-d9qj7r9.jpg)
+![](http://orig15.deviantart.net/a9dd/f/2008/142/a/c/oingo_boingo_fan_with_railgun_by_raz42.jpg)
+![](http://shortyawards.com.s3.amazonaws.com/entries/Ge_ZF_NEW-CharacterUpdate_CustomShells-ZachBraff.png)
+![](https://cdn0.vox-cdn.com/thumbor/7iQpM8wY6XWWUtYKy_OVP4wOic0=/0x0:1920x1080/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47118206/destiny-ghost.0.0.jpg)
+![](http://guides.gamepressure.com/soma/gfx/word/355217724.jpg)
+![](http://questionablecontent.net/view.php?comic=2)
+![](http://67.media.tumblr.com/ce4066f16cf3bfdc92e9953c7744a27d/tumblr_nwt9tkCqvZ1r6r0hto1_500.jpg)
+
