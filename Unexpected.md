@@ -30,9 +30,13 @@ The AI lies on the ground next to the cube and some scientist rush back over to 
 
 It glows blue and in an instant there is a flash of blue light and then everything is dark.
 
-Everything except a blinking light on your AI companion. You walk over and try to resurrect him by jumping him with your phone battery.
+Everything except a blinking light on your AI companion. You walk over and try to resurrect him by jumping him with your phone battery. 
+
+You have to take out the core unit and swap batteries.
 
 He springs back into life and then freaks out. "This is not what we thought it was, we thought it was old. It isn't, its very very new."
+
+
 
 ##Image board for AI
 
@@ -47,6 +51,7 @@ Req:
 * Features to help player
     * Scanner
     * Lights
+    * Intelligence
     
 Concept Board
 ![](http://orig15.deviantart.net/6101/f/2007/195/d/9/robot_concept_by_hideyoshi.jpg)
@@ -77,3 +82,30 @@ Examples
 ![](http://www.pimpknowledge.com/wp-content/uploads/2014/02/Bender-Fry.jpg)
 ![](http://vignette1.wikia.nocookie.net/jimmyneutron/images/a/a0/Vlcsnap-2012-12-02-15h13m21s153.png/revision/latest?cb=20121202211852)
 ![](https://s-media-cache-ak0.pinimg.com/564x/e7/79/e9/e779e92fe299aac175955c35fe6112af.jpg)
+
+##More Ideas
+
+Player is the robot. Helping a human on their mission.
+
+Vooooooop!
+
+Everything comes to life. Hang on, what? You can hear someone moving around and the sound of the wind.
+
+"Hey duplo, scan this will ya?"
+
+    >Scan
+
+As soon as you think the thought of acquiescence things start happening. A whirring begins, then a light from your chest jumps forward. You aren't sure what is going on, but suddenly you can see, not all at once. An image is being built up in layers. 
+
+Suddenly the image is solid. Not only is it solid, it is moving, it moves as you think. In your mind you spin it around looking at every facet of the shape, as you delve deeper. You notice something..
+
+    >"It's hollow"
+    
+"Thanks champ". 
+
+A buzzing sound starts up. As it moves closer to you it starts to get higher in pitch, like its an object getting faster and faster.
+
+Suddenly it finds some resistance and slows down as it hits something. The pitch drops off and it is slowly grinding through something.
+
+"Just igneous, not what we are looking for."
+
