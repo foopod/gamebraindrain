@@ -55,3 +55,37 @@ I really want to go to the party, Jannet will be there, but Greg won't drive me 
 Look after a boy named Ted. Ted's life simulator. You get a view into Ted's life. You can help Ted out by helping him with daily activities. But more importantly, by helping him work out how to be more emotionally cognitive.
 
 Main story events will happen and trigger Ted's reaction. The player can help Ted out, try to distract him with things or dwell on emotions, maybe help him with Mindful meditation or coaching him with rational therapy. Different things help him in different ways, taking time to watch a movie might help, but he might still dwell on the idea when he goes to sleep.
+
+# PITCH
+
+Ted is an artist, well that is what he tells people. He spends most of his time in an office job and spends his night painting small intricate paintings the size of cd cases. The last couple of months have been particularly rough, he hates his job and even though he has been to a bunch of interviews he hasn't had any luck. He wants to spend more time on his art, but his brother thinks its a stupid idea and a waste of time. If that weren't bad enough, Ted isn't great with women and isn't prepared to try right now after how badly his last relationship ended.
+
+The aim of the game is for the player to help Ted through some difficult parts in his life. So I am thinking that they have a view into Ted's life through his small appartment. You can see his small paintings in various places around the apartment, but things are pretty cramped an there isn't much room to move about. Kind of like a Tamogotchi but with Ted, hopefully some more meaningful interactions though.
+
+# More about Ted (A Stoic story)
+
+Ted recently got out of a relationship with a girl named Sasha, originally attracted to her because of her bad girl nature. But as the relationship went on Ted grew tired of her drug habits and her unwillingness to grow up. This was the worst break up Ted had been through, can you imagine what it is like to have someone tell you that they will kill themselves because of you.
+
+The next week was hell, contacting her friends to make sure she was okay went nowhere, no one would answer his calls. He was so worried about what he had done he had semi stalked her to make sure she was okay. She was far from okay, but at least she was alive.
+
+I bet you are wondering what led Ted to do this? Surely he could have done more, how could he have known she wasn't going to kill herself?
+
+This is awfully dark, but Ted had no control of this situation either way. Ted knew he didn't want to be with her, he knew that as hard as he could try to help her find stability in her life before doing this, there was no guarantee it would work. Was this an easy decision to make? Not at all, there was no certainty in the outcome and although.
+
+# Maybe start with the art thing
+
+(In Ted's apartment) (Ted is cooking) (Camera tracks along apartment to see items in Ted's life)
+
+Starts from the left, a glimpse of his bedroom. A bedside covered in books, some on the floor, and a laptop wedged next to the bed.
+
+The sheets are cream colored, can't tell if they are dirty or clean. The bed is unmade and there are clothes strewn everywhere.
+
+(maybe this comes later) On the other side of the bed is a massive mural on the wall of a tree. Giant branches stretching out across the bed. A few small paintings appear to hang from branches.
+
+A wall mounted heater sits there gathering dust.
+
+We pass through the door to see a TV pushed up against a wall and a long table with an easel on it.
+
+A couch faces the TV and behind the couch is a kitchen, Ted stands at the stove cooking up a storm.
+
+The music blares and Ted is playing the drums as he watches a frying pan.
