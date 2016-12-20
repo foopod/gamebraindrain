@@ -9,6 +9,19 @@ Looking at ways to help the character empathise with their friend.
 + Difficult times together, e.g. getting through a tough pokemon battle.
 + Making themselves vulnerable to you.
 
+# Ideas
++ Friend finding a font on the internet that it likes.
+
+# Todo
++ Ask player for name
++ Create character
+  * Player in HTML 5 canvas? Some simple algorithm for drawing them?
+  * Maybe animated png?
+  * Character is some form of AI, maybe just a sea of numbers?
++ Define 3 or 4 functions for maintaining buddy (maybe mimicking humans need for sleep, to feel valued...?)
++ Create a repository of interesting conversations to have with your AI
++ Saving functionality?
+
 # Some Questions
 + If you could choose just one thing to change in about the world, what would it be?
   - You wouldn't choose for one of humanity's core instincts to be ensuring that everyone's basic physical and safety needs are fulfilled? It would end so much pain and suffering.
